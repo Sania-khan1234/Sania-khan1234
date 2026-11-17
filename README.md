@@ -43,7 +43,7 @@ Perovskite solar cell fabrication and passivation.
 Building-Integrated Photovoltaics (BIPV).
 
 Commercial and residential solar PV system design.
-Solar PV System Design (5–500 kW)
+Solar PV System Design (5–1MW)
 
 🎯 Future Vision
 
