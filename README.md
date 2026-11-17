@@ -1,4 +1,4 @@
- Engr. Sania Khan
+ Sania Khan
 
 Renewable Energy Engineer | Photovoltaic Researcher | Solar Energy Professional
 
